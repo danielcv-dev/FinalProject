@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Llama
+  - Floor
+  - House
+  - Store
+  - Coin
+  - Pen
+  - FarmHouse
   layers:
   - Default
   - TransparentFX
